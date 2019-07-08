@@ -1,8 +1,8 @@
-# Automatic Speech Recognition (ASR)
+#  Speech Recognition using Deep Learning
 
 ## Project Overview
 
-we will build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline! The completed pipeline will accept raw audio as input and return a predicted transcription of the spoken language. The full pipeline is summarized in the figure below.
+I have built a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline! The completed pipeline will accept raw audio as input and return a predicted transcription of the spoken language. The full pipeline is summarized in the figure below.
 
 <img src="images/pipeline.png">
 
@@ -13,4 +13,4 @@ we will build a deep neural network that functions as part of an end-to-end auto
 
 ## Dataset
 
-We begin by investigating the [LibriSpeech dataset](http://www.openslr.org/12/) that will be used to train and evaluate your models. The algorithm will first convert any raw audio to feature representations that are commonly used for ASR. We will then move on to building neural networks that can map these audio features to transcribed text. 
+It begins by investigating the [LibriSpeech dataset](http://www.openslr.org/12/) that will be used to train and evaluate your models. The algorithm will first convert any raw audio to feature representations that are commonly used for ASR.  
